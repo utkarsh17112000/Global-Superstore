@@ -20,3 +20,5 @@ Here are just some of the key insights I explored:
 ...and many more!
 
 From identifying top-performing products and regions to analyzing customer behavior and discount strategies — this project has helped me strengthen my storytelling with data using tools like Excel, Tableau, and SQL. 💻📈
+
+Excel Link: https://docs.google.com/spreadsheets/d/1Q6iHi-dfJfRIf644E3ejRrkm-Lo7Mn42/edit?usp=sharing&ouid=108827164403131059178&rtpof=true&sd=true
